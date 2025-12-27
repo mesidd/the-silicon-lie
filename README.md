@@ -51,6 +51,8 @@ The full documentation is available as a PDF. It is written as a "Modern Sutra"�
 
 ### [📄 Click Here to Read 'The Silicon Lie'](The_Silicon_Lie.pdf)
 
+### [📄 Click Here to Read 'The Ternary Foundation'](THE%20TERNARY%20FOUNDATION_%20Exiting%20the%20Binary%20Hallucination%20of%20Quantum%20Mechanics.pdf)
+
 *(Note: Ensure you download the raw file for the best viewing experience)*
 
 ---
